@@ -1,0 +1,2 @@
+# pokedex
+Building a Pokedex =)
